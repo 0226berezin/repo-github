@@ -1,0 +1,68 @@
+[33mcommit 5e8fe22566d1e218284aaddd88ff24d897bbf46b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Aleksey <0226berezin@gmail.com>
+Date:   Tue Apr 7 20:25:15 2020 +0500
+
+    create change.md
+
+[33mcommit 44d91cad07fa49249ff9ccb6cafc888f1b6cb773[m
+Author: Aleksey <0226berezin@gmail.com>
+Date:   Tue Apr 7 20:17:36 2020 +0500
+
+    ignore set up
+
+[33mcommit 3da0e1182a0d834268262985387c726b1551fb54[m
+Author: Aleksey <0226berezin@gmail.com>
+Date:   Tue Apr 7 20:13:32 2020 +0500
+
+    created images directory
+
+[33mcommit 0627fe45637abbb4d27e667b47bf7340be51341f[m
+Author: Aleksey <0226berezin@gmail.com>
+Date:   Tue Apr 7 20:08:28 2020 +0500
+
+    updated readme.md
+
+[33mcommit 0a74d401b7ff3c6e3cd377b6c6af16a2e4a8046a[m
+Author: Aleksey <0226berezin@gmail.com>
+Date:   Tue Apr 7 20:06:38 2020 +0500
+
+    dd
+    add
+
+[33mcommit 983a03d42516fd2e2de67b0f4d6470944fbff44a[m
+Author: Aleksey <0226berezin@gmail.com>
+Date:   Tue Apr 7 20:02:22 2020 +0500
+
+    add readme.md
+
+[33mcommit e2fafde1414afdea44f134b37bcee8b441b5894e[m
+Author: Aleksey <0226berezin@gmail.com>
+Date:   Mon Apr 6 23:56:30 2020 +0500
+
+    Revert "created images directory"
+    
+    This reverts commit f501eb0eb81e4d08946d2f3b7f71f089028a9464.
+
+[33mcommit d6be153249b7aed7b5dc7055a2acf5a79c19d5aa[m
+Author: Aleksey <0226berezin@gmail.com>
+Date:   Mon Apr 6 23:14:19 2020 +0500
+
+    ignore set up
+
+[33mcommit f501eb0eb81e4d08946d2f3b7f71f089028a9464[m
+Author: Aleksey <0226berezin@gmail.com>
+Date:   Mon Apr 6 23:11:40 2020 +0500
+
+    created images directory
+
+[33mcommit aeb98ab8a9020fd211339bca9a4620bd723f6447[m
+Author: Aleksey <0226berezin@gmail.com>
+Date:   Mon Apr 6 23:07:05 2020 +0500
+
+    updated readme.md
+
+[33mcommit d11808b9ac3b86bf4d7f1d32c74e7ac2887550af[m
+Author: Aleksey <0226berezin@gmail.com>
+Date:   Mon Apr 6 23:02:27 2020 +0500
+
+    add readme.md
